@@ -1,14 +1,14 @@
 # FloatingActionButtons
 This is Android Application for showing Floating Action Buttons.
-
->> 1st
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+1st
 
 <img src="/Shot/s1.png">
 
->> 2nd
+2nd
 
 <img src="/Shot/s2.png">
 
->> 3nd
+3rd
 
 <img src="/Shot/s3.png">
