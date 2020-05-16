@@ -7,7 +7,7 @@ This is Android Application for showing Floating Action Buttons.
 
 2nd
 
-<img src="/Shot/s2.png" width="80" height="100">
+<img src="/Shot/s2.png" width="100" height="80">
 
 3rd
 
