@@ -3,7 +3,7 @@ This is Android Application for showing Floating Action Buttons.
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 1st
 
-<img src="/Shot/s1.png" height="100%" width="30%">
+<img src="/Shot/s1.png" height="100%" width="40%">
 
 2nd
 
