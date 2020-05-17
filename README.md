@@ -11,7 +11,7 @@ This is Android Application for showing Floating Action Buttons.
 
 3rd
 
-<img src="/Shot/s3.png" height="100%" width="30%">
+<img src="/Shot/s3.png" height="100%" width="40%">
 
 ## Website: https://sumitnce1.github.io
 ## Follow us:- Search Google: sumitnce1
